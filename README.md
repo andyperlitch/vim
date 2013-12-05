@@ -3,7 +3,7 @@ The worst installation instructions ever:
 git clone to somewhere on your computer  
   
 cd ~  
-ls -l  
+ls -la  
 use mv to rename old .vim directory  
 use mv to rename old .vimrc file  
   
@@ -12,7 +12,7 @@ ln -s /path/to/cloned/vim ~/.vim
 ln -s /path/to/cloned/vim/vimrc ~/.vimrc  
   
 Try it:  
-vim aFileYouWantToEdit.txt  
+vim FileYouWantToEdit.txt  
   
 Hope it works.  
   
