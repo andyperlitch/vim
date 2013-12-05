@@ -16,6 +16,8 @@ vim FileYouWantToEdit.txt
   
 Hope it works.  
   
+Use iTerm. Terminal.app won't let you use the mouse for some reason.  
+  
 Vim takes a long time to get the settings the way you want them so I made some shortcuts:  
 ,ev  :  edit vimrc (NORMAL MODE)  
 K    :  use while in vimrc to open settings documentation, hopefully to the setting your cursor is over (NORMAL MODE)  
